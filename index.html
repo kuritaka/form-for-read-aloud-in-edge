@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Form for read aloud in Edge</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="page">
+      <section id="reading-text" class="reading-text" aria-live="polite" aria-label="Text to read aloud" tabindex="-1"></section>
+
+      <form id="text-form" class="text-form">
+        <label for="text-input">Form for read aloud in Edge</label>
+        <p class="description">A simple offline web page for listening and pronunciation practice with Microsoft Edge Read aloud.</p>
+        <ol class="instructions">
+          <li>Enter or paste English text into the form.</li>
+          <li>Select <strong>Send</strong>. The text is displayed above the form.</li>
+          <li>In Edge, start <strong>Read aloud</strong> to listen to the displayed text.</li>
+        </ol>
+        <textarea id="text-input" name="text" rows="10" required></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </main>
+
+    <footer>
+      <p>Form for read aloud in Edge</p>
+      <p>Created by Takaaki Kurihara</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
