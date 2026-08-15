@@ -2,6 +2,9 @@
 
 A simple offline web page for listening and pronunciation practice with Microsoft Edge Read aloud.
 
+## Screenshots
+![Screenshot of Form for read aloud in Edge](images/screenshot.png)
+
 ## How to use
 
 1. Open `index.html` in Microsoft Edge.
