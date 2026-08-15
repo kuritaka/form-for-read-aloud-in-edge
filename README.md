@@ -12,10 +12,12 @@ A simple offline web page for listening and pronunciation practice with Microsof
 
 ## How to use
 
-1. Open `index.html` in Microsoft Edge.
-2. Enter or paste English text into the form.
-3. Select **Send**. The text is displayed above the form.
-4. In Edge, start **Read aloud** to listen to the displayed text.
+1. Download https://github.com/kuritaka/form-for-read-aloud-in-edge/archive/refs/heads/main.zip
+2. Decompress
+3. Open `index.html` in Microsoft Edge.
+4. Enter or paste English text into the form.
+5. Select **Send**. The text is displayed above the form.
+6. In Edge, start **Read aloud** to listen to the displayed text.
 
 ## Features
 
