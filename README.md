@@ -4,11 +4,16 @@ A simple offline web page for listening and pronunciation practice with Microsof
 
 ## Screenshots
 
-### From
-![Screenshot of Form for read aloud in Edge](images/screenshot.png)
+### Screenshots:From
+<img src="images/screenshot.png" alt="Screenshot of Form for read aloud in Edge" width="500">
 
-### Read aloud in Edge
-![Screenshot of Form for read aloud in Edge](images/screenshot2.png)
+### Screenshots:Read aloud in Edge
+<img src="images/screenshot2.png" alt="Screenshot of Form for read aloud in Edge" width="500">
+
+### Screenshots:Read aloud in Edge
+You can freely adjust the accent and speed in Edge.
+<img src="images/screenshot3.png" alt="Screenshot of Form for read aloud in Edge" width="500">
+
 
 ## How to use
 
